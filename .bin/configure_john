@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+sudo apt-get install git-core vim
+mkdir -p ~/bin/dotfiles
+mv ~/.bashrc ~/.bashrc.old && ln -s ~/bin/dotfiles/home-bashrc ~/.bashrc

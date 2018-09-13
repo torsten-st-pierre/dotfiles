@@ -1,0 +1,9 @@
+# Colors from http://wiki.archlinux.org/index.php/Color_Bash_Prompt
+# misc
+NO_COLOR='\e[0m' #disable any colors
+# regular colors
+BLACK='\e[0;30m'
+RED='\e[0;31m'
+GREEN='\e[0;32m'
+YELLOW='\e[0;33m'
+
